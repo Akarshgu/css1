@@ -1,0 +1,16 @@
+.first {
+     color: rgb(224, 34, 34);
+}
+#under {
+    text-decoration: underline;
+}
+
+#second{
+    letter-spacing: 5px;
+}
+.third{
+    text-decoration: line-through;
+}
+.forth , a {
+    background: yellow;
+}
