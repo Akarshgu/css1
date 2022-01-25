@@ -11,6 +11,10 @@
 .third{
     text-decoration: line-through;
 }
-.forth , a {
+.forth  {
     background: yellow;
+}
+a {
+background: yellow;
+     color: red;
 }
